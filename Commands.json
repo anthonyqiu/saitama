@@ -1,0 +1,16 @@
+{
+    "commands": [
+        {
+            "name": "say",
+            "description": "repeats what you typed"
+        },
+        {
+            "name": "cookie",
+            "description": "replies with a cookie"
+        },
+        {
+            "name": "ping",
+            "description": "replies with pong"
+        }
+    ]
+}
