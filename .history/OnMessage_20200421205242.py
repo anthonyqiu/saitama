@@ -5,7 +5,7 @@ import json;
 #UTILITY COMMANDS
 
 #CONFIG
-with open(r"Config.json", "r") as f:
+with open(r"C:\Users\antho\Desktop\Saitama\Config.json", "r") as f:
     config = json.load(f);
 
 class OnMessage(commands.Cog):
