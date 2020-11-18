@@ -12,15 +12,15 @@
     "permissions": []
   },
   "429394154234052608": {
-    "experience": 308,
+    "experience": 364,
     "level": 4,
-    "balance": 94,
+    "balance": 102,
     "permissions": []
   },
   "356199915518689283": {
-    "experience": 945,
+    "experience": 1015,
     "level": 5,
-    "balance": 225,
+    "balance": 235,
     "permissions": []
   },
   "440311964002942986": {
@@ -48,9 +48,9 @@
     "permissions": []
   },
   "447194515715915787": {
-    "experience": 1288,
-    "level": 5,
-    "balance": 284,
+    "experience": 1351,
+    "level": 6,
+    "balance": 343,
     "permissions": []
   },
   "445694574581645353": {
@@ -72,9 +72,9 @@
     "permissions": []
   },
   "235088799074484224": {
-    "experience": 84,
+    "experience": 112,
     "level": 3,
-    "balance": 42,
+    "balance": 46,
     "permissions": []
   }
 }
