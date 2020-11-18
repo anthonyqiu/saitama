@@ -20,9 +20,8 @@ class MiscCommands(commands.Cog):
     async def cookie(self, ctx):
         await ctx.send(":cookie:");
 
-    @commands.command(pass_context = True)
-    async def hello(self, ctx):
-        await ctx.send("hello!");
+    #@commands.command(pass_context = True)
+    #async def 
 
     @commands.command(pass_context = True)
     async def ping(self, ctx):
