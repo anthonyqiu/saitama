@@ -14,7 +14,7 @@ class MusicCommands(commands.Cog):
     def __init__(self, client):
         self.client = client;
         self.client.music = lavalink.Client(self.client.user.id);
-        self.client.music.add_node('localhost', 7000, '432e72k3', 'na', 'music-node');
+        self.client.music.add_node('localhost', 7000, 'q1w2E#R$', 'na', 'music-node');
         self.client.add_listener(self.client.music.voice_update_handler, 'on_socket_response');
         self.client.music.add_event_hook(self.trackHook);
 
